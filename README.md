@@ -34,20 +34,14 @@ Java version of Flask's MiniTwit example built with the Spark web microframework
         
 4. Log in as user001 with password user001, or user002/user002, or user003/user003 until user010/user010, or sign up yourself. If your e-mail address has an associated Gravatar image, this will be used as your profile image.
         
-Introduction XSS
+## Introduction XSS
 
 When looking at XSS (Cross-Site Scripting), there are three generally recognized forms of XSS:
 
 1 . Reflected or Stored
 2 . DOM Based XSS.
 
-The XSS Prevention Cheatsheet does an excellent job of addressing Reflected and Stored XSS. This cheatsheet addresses DOM (Document Object Model) based XSS and is an extension (and assumes comprehension of) the XSS Prevention Cheatsheet.
-
-In order to understand DOM based XSS, one needs to see the fundamental difference between Reflected and Stored XSS when compared to DOM based XSS. The primary difference is where the attack is injected into the application.
-
-Reflected and Stored XSS are server side injection issues while DOM based XSS is a client (browser) side injection issue.
-
-All of this code originates on the server, which means it is the application owner's responsibility to make it safe from XSS, regardless of the type of XSS flaw it is. Also, XSS attacks always execute in the browser.
+Cross-site scripting (or XSS) is a code vulnerability that occurs when an attacker “injects” a malicious script into an otherwise trusted website. The injected script gets downloaded and executed by the end user’s browser when the user interacts with the compromised website. Since the script came from a trusted website, it cannot be distinguished from a legitimate script.
 
 ## Owasp
 
@@ -63,13 +57,11 @@ Find With SAST Tools : SonarQube Developer Plans
 
 Find With SAST Tools : Snyk Enterprise Plans
 
-![Getting Started](40.png)
+![Getting Started](43.png)
+
 
 ## Fix Guide :  
 
-
-
-## Hints:
 
 
 
