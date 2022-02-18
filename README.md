@@ -62,7 +62,9 @@ Find With SAST Tools : Snyk Enterprise Plans
 
 ## Fix Guide :  
 
+Detailed paths and remediation
 
+Introduced through: com.sparkjava:minitwit@1.0-SNAPSHOT › com.sparkjava:spark-core@2.5.4 › org.eclipse.jetty:jetty-server@9.3.6.v20151106
 
 
 ## Contributing : 
