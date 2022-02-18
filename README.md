@@ -1,4 +1,4 @@
-# MiniTwit
+# Java-Xss-minitwit16
 
 Java version of Flask's MiniTwit example built with the Spark web microframework, Freemarker, Spring and HSQLDB (as an in-memory database).
 
