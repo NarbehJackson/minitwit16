@@ -47,17 +47,16 @@ Cross-site scripting (or XSS) is a code vulnerability that occurs when an attack
 
 https://owasp.org/www-community/attacks/xss/
 
-## SAST Tools : 
-
-Find With SAST Tools : SonarQube Developer Plans
-
-
-![Getting Started](40.png)
-
+## SAST Tools :
 
 Find With SAST Tools : Snyk Enterprise Plans
 
 ![Getting Started](43.png)
+
+## Attack
+
+![Getting Started](44.png)
+
 
 
 ## Fix Guide :  
